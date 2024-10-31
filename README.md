@@ -69,9 +69,3 @@ pip install image-processing-test
 from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
-
-## Autor (quem hospedou o projeto no Test Pypi)
-Henrique Matheus Alves Pereira
-
-## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
